@@ -77,3 +77,5 @@ df_consumption.info()
 df_consumption.plot(color = "pink")
 
 results = adfuller(df_consumption["tuketim"])
+
+# endline
